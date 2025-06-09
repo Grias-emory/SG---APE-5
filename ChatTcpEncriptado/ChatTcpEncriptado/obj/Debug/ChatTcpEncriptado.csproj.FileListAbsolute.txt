@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\ChatTcpEncriptado\ChatTcpEncriptado\bin\Debug\ChatTcpEncriptado.exe.config
+C:\Users\User\source\repos\ChatTcpEncriptado\ChatTcpEncriptado\bin\Debug\ChatTcpEncriptado.exe
+C:\Users\User\source\repos\ChatTcpEncriptado\ChatTcpEncriptado\bin\Debug\ChatTcpEncriptado.pdb
+C:\Users\User\source\repos\ChatTcpEncriptado\ChatTcpEncriptado\obj\Debug\ChatTcpEncriptado.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ChatTcpEncriptado\ChatTcpEncriptado\obj\Debug\ChatTcpEncriptado.Properties.Resources.resources
+C:\Users\User\source\repos\ChatTcpEncriptado\ChatTcpEncriptado\obj\Debug\ChatTcpEncriptado.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ChatTcpEncriptado\ChatTcpEncriptado\obj\Debug\ChatTcpEncriptado.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ChatTcpEncriptado\ChatTcpEncriptado\obj\Debug\ChatTcpEncriptado.exe
+C:\Users\User\source\repos\ChatTcpEncriptado\ChatTcpEncriptado\obj\Debug\ChatTcpEncriptado.pdb
